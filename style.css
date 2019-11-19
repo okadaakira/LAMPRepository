@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background: #caf9ff;
+    padding: 10px;
+}
+
+.container {
+    padding: 20px;
+}
+
+.input {
+    display: flex;
+    padding-right: 10px;
+}
+
+.input input {
+    padding: 5px 50px;
+}
+
+.send {
+    margin-bottom: 20px;
+}
+.send input {
+    font-size: 20px;
+}
+
+.input select {
+    height: 36px;
+}
+
+.output {
+    margin: 10px 30px;
+}
+
+.footer {
+    background: #aed6db;
+    text-align: center;
+    padding: 10px;
+}
